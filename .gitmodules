@@ -1,0 +1,6 @@
+[submodule "definitelytyped-tools"]
+	path = definitelytyped-tools
+	url = https://github.com/aman20244/definitelytyped-tools.git
+[submodule "poc-bins"]
+	path = poc-bins
+	url = https://github.com/aman20244/poc-bins.git
